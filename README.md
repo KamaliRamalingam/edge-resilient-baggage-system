@@ -8,9 +8,9 @@ Built for **Couchbase Edge Resilience Hackathon 2026**
 
 ## Demo Video
 
-▶️ Watch the demo here:
+▶️ Watch the demo video from the release page:
 
-[Watch Demo Video](https://raw.githubusercontent.com/KamaliRamalingam/edge-resilient-baggage-system/main/resilient-baggage-operations-hackathon-demo.mp4)
+https://github.com/KamaliRamalingam/edge-resilient-baggage-system/releases/tag/v1.0
 
 ---
 
